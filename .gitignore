@@ -1,3 +1,4 @@
 langchain.cpython*
 .venv
 .env
+.idea
